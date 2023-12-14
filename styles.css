@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+body{
+  background-color: #087E8C;
+}
+form{
+    margin: 0 auto; 
+    width:250px;
+}
+form label{
+    color: #EEEEEE;
+}
+form input{
+    margin-top: 5%;
+    background: #EEEEEE;
+}
+form select{
+    margin-top: 5%;
+    background: #EEEEEE;
+}
